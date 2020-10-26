@@ -7,3 +7,8 @@
 - [ ] Build a grid of 8 items according to a response and the design
 -- [ ] Apply a microdata for items
 -- [ ] An image and a name have to be wrapped with a link to a product
+
+## Designs:
+| Home | PGP Desktop | PGP mobile |
+| ----------- | ----------- | ----------- |
+| ![Home](/desings/home.jpg "Home") | ![PGP Desktop](/desings/pgp.jpg "PGP Desktop") | ![PGP mobile](/desings/mobile.jpg "PGP mobile") |
