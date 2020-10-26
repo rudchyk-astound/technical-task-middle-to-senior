@@ -9,6 +9,12 @@
 -- [ ] An image and a name have to be wrapped with a link to a product
 
 ## Designs:
-| Home | PGP Desktop | PGP mobile |
-| ----------- | ----------- | ----------- |
-| ![Home](/desings/home.jpg "Home") | ![PGP Desktop](/desings/pgp.jpg "PGP Desktop") | ![PGP mobile](/desings/mobile.jpg "PGP mobile") |
+
+### Home:
+![Home](/desings/home.jpg "Home")
+
+### PGP Desktop:
+![PGP Desktop](/desings/pgp.jpg "PGP Desktop")
+
+### PGP mobile:
+![PGP mobile](/desings/mobile.jpg "PGP mobile")
