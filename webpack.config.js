@@ -1,8 +1,9 @@
 const path = require('path');
 const HtmlWebpackPlugin = require('html-webpack-plugin');
+const products = require('./api/products.json');
 
 module.exports = {
-  entry: './src/index.js',
+  entry: './src/js/index.js',
   output: {
     filename: 'bundle.js',
     path: path.resolve(__dirname, 'dist'),
@@ -13,8 +14,8 @@ module.exports = {
     publicPath: '/',
     port: 9000,
     before: function(app, server, compiler) {
-      app.get('/some/path', function(req, res) {
-        res.json({ custom: 'response' });
+      app.get('/api/products', function(req, res) {
+        res.json(products);
       });
     }
   },
