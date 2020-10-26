@@ -4,7 +4,7 @@
   "description": "Technical task for promotion from Frontend Developer Middle to Frontend Developer Senior",
   "private": true,
   "scripts": {
-    "dev": "webpack serve"
+    "dev": "webpack -h -w serve"
   },
   "repository": {
     "type": "git",
