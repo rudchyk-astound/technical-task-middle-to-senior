@@ -16,10 +16,10 @@
 ## Designs:
 
 ### Home:
-![Home](/desings/home.jpg "Home1")
+![Home](/desings/home.jpg "Home")
 
 ### PGP Desktop:
-![PGP Desktop](/desings/pgp.jpg "PGP Desktop1")
+![PGP Desktop](/desings/pgp.jpg "PGP Desktop")
 
 ### PGP mobile:
-![PGP mobile](/desings/mobile.jpg "PGP mobile1")
+![PGP mobile](/desings/mobile.jpg "PGP mobile")
