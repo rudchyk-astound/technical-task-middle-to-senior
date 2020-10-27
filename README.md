@@ -16,7 +16,7 @@
 ## Designs:
 
 ### Home:
-![Home](/desings/home.jpg "Home")
+![Home](/desings/home.jpg "Home1")
 
 ### PGP Desktop:
 ![PGP Desktop](/desings/pgp.jpg "PGP Desktop")
